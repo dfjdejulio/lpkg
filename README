@@ -1,0 +1,8 @@
+1. lpkg does not use compresion.
+2. as it does not have "real" implementation of MNP protocol, it could hang
+   when it should retransmit frame.
+3. remember, that standard Newton's speed is 38400 bps. If you want to use
+   115200bps, install FastSerialConnection.pkg on your Newton. Don't forget
+   selecting FastSerial intead of Serial in connection dialog !
+
+philz
