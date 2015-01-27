@@ -1,1 +1,1 @@
-I downloaded this source years ago, and only made minor changes to it.  I can no longer find the upstream source, so I stashed it here for now.
+I downloaded this source years ago, and only made minor changes to it.  I can no longer find the upstream source, so I stashed it here for now.  I left the original README intact.  Go look at that.  I'm not 100% sure what the licensig is, but the source was originally distributed for others to use.
